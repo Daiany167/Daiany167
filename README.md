@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil!!
 
-Meu nome é Daiany
+Meu nome é *Daiany*
 
 - Estou estudando na Alura
 - Estou aprendendo a linguagem JavaScript
